@@ -6,10 +6,10 @@ Lying posture tracking provides important clinical information about a patientâ€
 risk of developing hospital-acquired pressure injuries, and quality of sleep. Therefore,
 accurate estimation of lying postures during sleep at night plays a crucial role in
 monitoring well-being of the individuals.
-In this project, you will use the IMU sensor unit embedded in the Arduino board to
+In this project, we used the IMU sensor unit embedded in the Arduino board to
 gather sensor data that mimics various lying postures, and design and implement an
-algorithm that turns the on-board LED on to indicate the specific lying posture. You will
-focus on three lying postures of interest including supine, prone, side (either right side or
+algorithm that turns the on-board LED on to indicate the specific lying posture. We
+focused on three lying postures of interest including supine, prone, side (either right side or
 left side). Assume that the sensor unit is attached to the chest of the user. The goal is to
 design a system that will
 â€¢ Turn the LED ON and OFF once if the detected posture is supine (blinking once)
